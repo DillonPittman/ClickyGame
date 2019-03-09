@@ -1,0 +1,28 @@
+.card {
+  background: #fff;
+  border-radius: 2px;
+  height: 200px;
+  margin: 50px;
+  width: 200px;
+}
+
+.img-container {
+  overflow: hidden;
+  /* background: black; */
+}
+
+img {
+height: 100%;
+width: 100%;
+}
+
+img:hover {
+  -webkit-transform:scale(.9);
+  -moz-transform:scale(.9);
+  -ms-transform:scale(.9);
+  -o-transform:scale(.9);
+  transform:scale(.9);
+}
+
+  
+

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alakazam",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/alakazam.png"
+  },
+  {
+    "id": 2,
+    "name": "Snorlax",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/snorlax.png"
+  },
+  {
+    "id": 3,
+    "name": "Hitmonlee",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/hitmonlee.png"
+  },
+  {
+    "id": 4,
+    "name": "Bulbasaur",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/bulbasaur.png"
+  },
+  {
+    "id": 5,
+    "name": "Squirtle",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/squirtle.png"
+  },
+  {
+    "id": 6,
+    "name": "Charmander",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/charmander.png"
+  },
+  {
+    "id": 7,
+    "name": "Jolteon",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/jolteon.png"
+  },
+  {
+    "id": 8,
+    "name": "Gengar",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/gengar.png"
+  },
+  {
+    "id": 9,
+    "name": "Mr. Mime",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/mr_mime.png"
+  },
+  {
+    "id": 10,
+    "name": "Omastar",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/omastar.png"
+  },
+  {
+    "id": 11,
+    "name": "Weezing",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/weezing.png"
+  },
+  {
+    "id": 12,
+    "name": "Aerodactyl",
+    "image": "https://www.smogon.com/dex/media/sprites/rb/aerodactyl.png"
+  }
+]
